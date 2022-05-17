@@ -1,7 +1,7 @@
 
 # Demonstration System of mass-customized production and  OEE monitoring for Industry 4.0 Solution
 
-## introduction
+## INTRODUCTION
 
 > In order to provide an industry 4.0 solution for improving a production line to be more effective, this thesis presents a demonstration system of mass-customized production and overall equipment effectiveness (OEE) monitoring. A color-based sorting and packing system is implemented for use as an illustrative case study to emulate the flexible manufacturing system that creates custom-made options. The packing conveyor is controlled by SIEMENS S7-1200 programmable logic controller (PLC) that executes its instructions by using TIA PORTAL software. To sort products in according to their respective colors, the DRS-40-L3 SCARA robot is controlled by DELTA ASDA-MS robot controller that provides accessing its data through DROE software.
 Moreover, the safety light curtain is installed to protect personnel from injuries related to hazardous robot motion. The WooCommerce integrated with WordPress enterprise resource planning (ERP) website is used for getting data of customers, products, and orders. The Archestra IDE-based databaseis created for transferring the order data from the ERP website to the implemented sorting and packaging system via Modbus TCP
@@ -22,7 +22,7 @@ included.
 
 
 
-## Content
+## CONTENT
 
 
-## Conclusion
+## CONCLUSION
