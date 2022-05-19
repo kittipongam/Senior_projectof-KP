@@ -51,8 +51,22 @@ OEE
 
 Website
 
-![image](https://user-images.githubusercontent.com/104770048/169226924-3b11ba2b-b412-41a6-b8c4-845244649e97.png)
-
+<p align="center">  
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169226924-3b11ba2b-b412-41a6-b8c4-845244649e97.png"> <br>
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169227989-5b849726-1492-4da4-bdc5-ebdf3c851fb3.png"> <br>
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169228023-5c3c829c-9e9f-4392-80db-1bfbd4333c13.png"> <br>
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169228063-55dfbf6e-d389-4789-bd37-d8bcbca032c6.png"> <br>
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169228108-89dd17df-d033-4b9d-b84b-87bea1722c96.png"> <br>
+    <img width="75%" src="https://user-images.githubusercontent.com/104770048/169228156-3eac3a0e-0491-4c8e-8940-322c3009b4e1.png"> <br>
+    
+    <img width="33%" src="https://i.stack.imgur.com/RJj4x.png"> <br>
+     ![image](https://user-images.githubusercontent.com/104770048/169226924-3b11ba2b-b412-41a6-b8c4-845244649e97.png)
+     ![image](https://user-images.githubusercontent.com/104770048/169227989-5b849726-1492-4da4-bdc5-ebdf3c851fb3.png)
+     ![image](https://user-images.githubusercontent.com/104770048/169228023-5c3c829c-9e9f-4392-80db-1bfbd4333c13.png)
+     ![image](https://user-images.githubusercontent.com/104770048/169228063-55dfbf6e-d389-4789-bd37-d8bcbca032c6.png)
+     ![image](https://user-images.githubusercontent.com/104770048/169228108-89dd17df-d033-4b9d-b84b-87bea1722c96.png)
+     ![image](https://user-images.githubusercontent.com/104770048/169228156-3eac3a0e-0491-4c8e-8940-322c3009b4e1.png)   
+</p>    
 
 ## CONCLUSION
 
